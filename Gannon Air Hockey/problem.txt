@@ -1,0 +1,12 @@
+We took on this challenge of creating an Air Hockey game to see if we could solve the problem of 
+integrating realistic physics into a game environment.  To solve the problem, it took many 
+applications of mathematics, including vectors, trigonometry, and physics equations.  We had to solve
+for many different problems including incorporating friction, dealing with collisions, and speed control.
+To overcome these obstacles, we experimented with many different solutions.  To solve for friction, we had 
+to test many different values to lower the speed of the puck each time the game updates to institute a 
+realistic friction environment.  We had to use distance formulas and institute vector collisions to properly
+detect collisions and designate the correct path of motion when the puck contacts a paddle or wall.
+We also had to manage the speed of the puck using decision structures so that the puck would not fly 
+around the screen too fast.  Creating a lifelike physics environment inside a program was a very challenging
+and difficult task, yet it was very exciting to accomplish this and overcome the difficulties.
+
